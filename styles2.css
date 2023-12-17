@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+}
+
+.navbar-brand{
+    color: #525FFB;
+    font-weight: bold;
+    font-family: "Arial", "Helvetica", sans-serif;
+
+}
+
+#tryfree{ 
+    color: #525FFB;
+    font-weight: bold;
+}
+
+h2{
+    padding-top: 75px;
+}
+
+.section1{
+    align-items: center;
+
+}
+
+.section2{
+    text-align: center;
+    align-items: center;
+}
+
+.h1{
+    text-align: center;
+}
+
+.para1{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para3,.para5 {
+    text-align: center;
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para2{
+    text-align: center;
+    color: white;
+}
+.para4,.para6{
+    text-align: center;
+    color: black;
+}
+
+#img11{
+align-items: center;
+}
+
+.bigimg{
+    padding-left: 100;}
+
+#section6{
+    color: #525FFB;
+    font-weight: bold;
+    font-size: 200px;
+    
+
+}
+
+.rounded-circle {
+    width: 150px; 
+    height: 150px;
+    object-fit: cover;
+}
+
+.display-1 {
+    color: #525FFB;
+    font-weight: bold;
+    font-size: 100px;
+   
+}
+
+p {
+    color: black;
+}
+
+.input-group .form-control {
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    margin-right: -1px; 
+}
+
+.input-group .btn-primary {
+    border-radius: 20px; 
+    padding: 10px 20px; 
+}
